@@ -1,0 +1,64 @@
+form {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 75px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 25px;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-size: 18px;
+  margin: 0;
+  padding-top: 12px;
+}
+
+.container {
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 128px auto;
+  padding: 20px;
+  width: 800px;
+}
+
+.search-button {
+  display: block;
+  padding: 5px 27.4px;
+}
+
+.temperature,
+.city {
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 12px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 12px;
+}
+
+.current-weather {
+  text-align: center;
+}
+
+.main-icon {
+  font-size: 115px;
+}
+
+.weekly-weather {
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 0;
+  text-align: center;
+}
+
+.mini-icon {
+  font-size: 35px;
+  margin: 6px;
+}
