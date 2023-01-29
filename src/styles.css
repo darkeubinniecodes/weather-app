@@ -20,10 +20,8 @@ h3 {
   padding-top: 12px;
 }
 
-a {
-  font-size: 25px;
-  margin: 128px auto;
-  padding: 20px;
+p {
+  text-align: center;
 }
 
 .container {
